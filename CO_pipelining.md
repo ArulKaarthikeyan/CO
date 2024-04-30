@@ -71,8 +71,7 @@ properly, it may cause a data hazard. For instance, if the sub
 instruction is fetched before the add instruction completes execution,
 it will use the incorrect value of $t0, leading to an incorrect result.
 
-2.Control Hazard:
-
+*Control Hazard:*
 Control hazards (also known as branch hazards) occur when the pipeline
 needs to make a decision based on the outcome of a previous instruction,
 such as a branch instruction, but the decision cannot be made until
