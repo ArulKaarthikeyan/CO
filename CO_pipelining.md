@@ -38,7 +38,7 @@ memory, this stage handles that operation.
 *Write Back*: The results of the operation are written back to the
 registers or memory.
 
-![laundry](Pipelining-Instructions.gif)
+![laundry](Pipelining-Instructions.jpg)
 
 **ADVANTAGES OF IMPLEMENTING PIPELINING:**
 
