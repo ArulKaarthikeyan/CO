@@ -1,7 +1,7 @@
 **PIPELINING**
 
 **UNDERSTANDING PIPELINING WITH SIMPLE EXAMPLE:**
-
+![Laundry](laundry1.gif)
 <img src="media/image1.gif" style="width:5.26042in;height:2.77061in" />Let's
 imagine you are doing laundry. Traditionally, you might wash all of your
 clothes, then dry them all, and then fold them all. This is a
