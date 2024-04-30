@@ -1,13 +1,13 @@
 **PIPELINING**
 
 **UNDERSTANDING PIPELINING WITH SIMPLE EXAMPLE:**
-
-<img src="media/image1.gif" style="width:5.26042in;height:2.77061in" />Let's
+![laundry](laundry1.gif)
+Let's
 imagine you are doing laundry. Traditionally, you might wash all of your
 clothes, then dry them all, and then fold them all. This is a
 non-pipelined approach.
 
-<img src="media/image2.gif" style="width:5.94792in;height:3.14583in" />A
+![laundry](laundry2.gif)A
 pipelined approach to laundry would involve having one person wash
 clothes while another dries them, and a third person folds them. This
 way, all three tasks can be happening simultaneously, which can
@@ -38,7 +38,7 @@ memory, this stage handles that operation.
 *Write Back*: The results of the operation are written back to the
 registers or memory.
 
-<img src="media/image3.jpeg" style="width:6.26087in;height:3.38261in" />
+![laundry](Pipelining-Instructions.gif)
 
 **ADVANTAGES OF IMPLEMENTING PIPELINING:**
 
